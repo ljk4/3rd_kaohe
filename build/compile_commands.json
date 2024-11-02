@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ljk/c++/3rd/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/3rd.dir/3rd.cpp.o -c /home/ljk/c++/3rd/3rd.cpp",
+  "file": "/home/ljk/c++/3rd/3rd.cpp"
+}
+]

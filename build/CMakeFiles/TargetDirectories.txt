@@ -1,0 +1,3 @@
+/home/ljk/c++/3rd/build/CMakeFiles/3rd.dir
+/home/ljk/c++/3rd/build/CMakeFiles/edit_cache.dir
+/home/ljk/c++/3rd/build/CMakeFiles/rebuild_cache.dir
