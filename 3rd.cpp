@@ -122,9 +122,9 @@ int main(int argc, char** argv)
         printf("No image data \n");
         return -1;
     }
-    double smoothness_threshold = 25; //平行度阀值，越大越不平滑
-    double aspectRatio_min_threshold = 0.3; //长宽比最小阀值，越小代表越瘦
-    double aspectRatio_max_threshold = 0.6; //长宽比最大阀值
+    double smoothness_threshold = 5000; //平行度阀值，越大越不平滑
+    double aspectRatio_min_threshold = 0.2; //长宽比最小阀值，越小代表越瘦
+    double aspectRatio_max_threshold = 0.7; //长宽比最大阀值
     double Area_max = 300; //滤去面积小于值的轮廓
     double distance_Threshold = 500;
     
